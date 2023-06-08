@@ -1,0 +1,17 @@
+html{
+    background-color: dimgray;
+}
+h1{
+font-size: 50px;
+text-align: center;
+}
+p,li{
+    font-size: 20px;
+}
+body{
+    width: 75%;
+    margin: 0 auto;
+    background-color: lightslategrey;
+    border: 2px solid black;
+    padding: 0 20px 20px 20px;
+}
